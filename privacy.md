@@ -9,4 +9,4 @@ Typhon Backup is a personal tool used only by its owner.
 - **Credentials:** stored only on the owner's own devices.
 - **Revoking access:** at any time in Google Account settings → Security → Third-party connections. Revoking access does not delete stored backups.
 
-Contact: YOUR-EMAIL
+Contact: via GitHub — @whiskeyjacklives
